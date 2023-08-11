@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Uganda
+  adjective: Ugandan
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: byaruhangabrian@gmail.com
+  suggestions: byaruhangabrian@gmail.com
+  functional: byaruhangabrian@gmail.com
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -66,7 +66,7 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/brian_abooki'
     translation_key: general.twitter
   - path: 'https://facebook.com/MyFacebookAccount'
     translation_key: general.facebook
@@ -79,21 +79,21 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Coordination Framework
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      Since the adoption of the SDGs, the Government has implemented an inclusive process to ensure that the SDG agenda 
+      is owned by the people, starting with the national coordination arrangements.
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://sdgs.opm.go.ug/coordination-framework/'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: ANNUAL SDG CONFERENCE
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      As a means of accelerating the implementation of the new SDG roadmap, building a strong leadership culture and popularizing the SDGs, 
+      the Government of Uganda under the coordination of the Office of the Prime Minister initiated a domestic platform for expedited follow-up
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://sdgs.opm.go.ug/sdgs-conference/'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
